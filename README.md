@@ -1,16 +1,30 @@
-## Hi there 👋
+はじめまして、urasen-uです！
+Unityを中心に、企画から開発・リリースまでを一貫して行う個人開発者です。
 
-<!--
-**urasen-u/urasen-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在、実務でのエンジニア採用を目指して学習・研鑽中です。
 
-Here are some ideas to get you started:
+🛠 私が開発したゲーム
+「完遂力」を大切に、以下のプロジェクトをリリースしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+primenum-shoot: 
+
+素数判定ロジックを活用したシューティングゲーム
+
+riddle-dungeon: 
+
+クイズで戦うダンジョンRPG
+
+tipshot: 
+
+仲間を弾いて敵を倒すRPG
+
+💡 こだわり
+設計への意識: ScriptableObjectを用いたデータ分離や、拡張性を考慮した設計を意識しています。
+
+完遂へのこだわり: 企画段階で終わらせず、リリースしてユーザーに遊んでもらうことを何よりの目標にしています。
+
+仕様の工夫: 技術的な実装だけでなく、プレイヤーにとってどう面白いかを考えながら仕様を練るのが得意です。
+
+💬 連絡先
+
+(https://offers.jp/worker/profile)
