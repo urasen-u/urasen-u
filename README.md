@@ -6,7 +6,7 @@ Unityを中心に、企画から開発・リリースまでを一貫して行う
 🛠 私が開発したゲーム
 「完遂力」を大切に、以下のプロジェクトをリリースしています。
 
-primenum-shoot: 
+[primenum-shoot: ](https://github.com/urasen-u/primenum-shoot)
 
 素数判定ロジックを活用したシューティングゲーム
 
