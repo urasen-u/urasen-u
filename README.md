@@ -14,7 +14,7 @@ Unityを中心に、企画から開発・リリースまでを一貫して行う
 
 クイズで戦うダンジョンRPG
 
-tipshot: 
+[tipshot: ](https://github.com/urasen-u/tipshot)
 
 仲間を弾いて敵を倒すRPG
 
