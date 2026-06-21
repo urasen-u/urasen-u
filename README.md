@@ -10,7 +10,7 @@ Unityを中心に、企画から開発・リリースまでを一貫して行う
 
 素数判定ロジックを活用したシューティングゲーム
 
-riddle-dungeon: 
+[riddle-dungeon:](https://github.com/urasen-u/riddle-dungeon) 
 
 クイズで戦うダンジョンRPG
 
